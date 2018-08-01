@@ -1,0 +1,21 @@
+<resources>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="denali">Denali</string>
+    <string name="mount_kilimanjaro">Mount kilimanjaro</string>
+    <string name="mount_everest">Mount Everest</string>
+    <string name="sierra_nevada">Sierra Nevada</string>
+    <string name="rocky_mountains">Rocky Mountains</string>
+    <string name="appalachian_mountains">Appalachian Mountains</string>
+    <string name="is_nile_river_the_longest_river_in_the_world">Is Nile River the longest river in the world?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="what_mountain_is_the_tallest_on_earth">What mountain is the tallest on Earth?</string>
+    <string name="type_your_answer_here">Type your answer here</string>
+    <string name="what_continent_is_the_most_populated">What continent is the most populated?</string>
+    <string name="missouri_river">Missouri River</string>
+    <string name="yukon_river">Yukon River</string>
+    <string name="colorado_river">Colorado River</string>
+    <string name="which_is_the_longest_river_in_the_u_s">Which is the longest river in the U.S.?</string>
+    <string name="what_is_the_longest_mountain_range_in_north_america">What is the longest mountain range in North America?</string>
+</resources>
